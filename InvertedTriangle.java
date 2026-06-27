@@ -5,6 +5,7 @@ public class InvertedTriangle{
       for(int j = 0; j < n-i; j++){
         System.out.print("* ");
       }
+      System.out.println();
     }
   }
 }
